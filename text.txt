@@ -1,1 +1,1 @@
-This is for me find our that it is working 
+This is the first time i am trying to see i can make file and upload the file in the Git repository 
